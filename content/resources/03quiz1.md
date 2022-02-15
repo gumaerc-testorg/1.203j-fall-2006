@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains a quiz on logistics and transportation planning
   methods.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-203j-logistical-and-transportation-planning-methods-fall-2006/74b3720e0115e36c4e5a68befeb6cbe5_03quiz1.pdf
+file: /media/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/74b3720e0115e36c4e5a68befeb6cbe5_03quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: 03quiz1.pdf
 uid: 74b3720e-0115-e36c-4e5a-68befeb6cbe5
