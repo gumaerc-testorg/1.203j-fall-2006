@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3dbf418d-55cc-5d7e-6cf6-acb67fe67d7f
 resourcetype: Document
 title: ps6sol.pdf
 uid: fda6c079-0135-c8d9-227d-cb1effe9b148
