@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides information about course instructors and teaching
+  assistants, the course textbook, and grading criteria.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
