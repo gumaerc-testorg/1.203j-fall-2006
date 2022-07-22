@@ -7,6 +7,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec11.pdf
 uid: 28a2a732-df4b-a263-a808-83efef879091
 ---
 This resource contains lecture slides on congestion pricing, economic principle, congestion pricing and queueing theory, the principal observation, some definitions for the case of m types of customers, some additional issues, and references.
-

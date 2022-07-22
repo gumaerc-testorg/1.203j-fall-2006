@@ -6,6 +6,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/5
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 01quiz2.pdf
 uid: 5d15dba6-50c3-5eca-1f8e-174f549c4301
 ---
 This resource contains a quiz on logistics and transportation planning methods.
-

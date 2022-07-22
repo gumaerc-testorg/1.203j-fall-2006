@@ -7,6 +7,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/8
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps1.pdf
 uid: 893e3bed-f784-2ffa-3790-9450ab930ee4
 ---
 This resource contains a problem set for logistical and transportation planning methods, including problems: two-horse race, cell phones, dogs in the woods, and pedestrian crossing.
-

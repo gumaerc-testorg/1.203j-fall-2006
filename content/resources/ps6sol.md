@@ -8,6 +8,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: ps6sol.pdf
 uid: fda6c079-0135-c8d9-227d-cb1effe9b148
 ---
 This resource contains problem set solutions for logistical and transportation planning methods, including Goldman?s majority theorem, traveling salesman problem with Backhauls (TSPB), the Delivery Truck Problem (DTP), and a version of the k-traveling salesmen problem in Euclidean space.
-

@@ -10,6 +10,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -20,4 +21,3 @@ uid: a9e00207-9267-4d0d-fafc-d513b31881f7
 ---
 This file is a resource which contains information on M/G/1, 2 servers, N servers, approximations, two-server ?hypercube? queueing model, service discipline, workloads and imbalances, average system-wide travel time, New York City
 EMS hypercube, rectangular city example, optimal districting, boundary line comparison, and two server loss model: boundary line result.
-

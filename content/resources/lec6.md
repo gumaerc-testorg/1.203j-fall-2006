@@ -7,6 +7,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec6.pdf
 uid: b87afb50-0444-dda0-ccaa-899445d90b17
 ---
 This resource contains lecture slides on M/M/m, M/M/8, M/M/1: finite system capacity, related observations and extensions, an M/E2/1 example, and M/G/1: epochs and transition probabilities.
-

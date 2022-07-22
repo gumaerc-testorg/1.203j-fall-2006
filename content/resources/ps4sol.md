@@ -7,6 +7,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/5
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: ps4sol.pdf
 uid: 548fae3f-0b5e-b3ca-9992-9edb75c28949
 ---
 This resource contains problem set solutions for logistical and transportation planning methods, including a review problem on M/G/1 queues, state-transition diagrams, and queuing systems.
-

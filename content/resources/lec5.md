@@ -9,6 +9,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: lec5.pdf
 uid: a9235f5e-4e0a-ee12-a557-78e5beaf0ddb
 ---
 This resource contains lecture slides on topics in queueing systems, terminology and notation, Little?s law, Markovian birth-and-death queues, the "state balance" equation, M/M/1: observing state transition diagram from two points, priority queues, dynamic behavior of queues, applications of queueing theory, and strengths and weaknesses of queueing theory.
-

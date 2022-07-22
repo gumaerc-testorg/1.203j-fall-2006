@@ -6,6 +6,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/f
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ps3sol.pdf
 uid: f48e7ce0-3ef9-3814-71aa-24c4000d71a7
 ---
 This resource contains problem set solutions for logistical and transportation planning methods.
-

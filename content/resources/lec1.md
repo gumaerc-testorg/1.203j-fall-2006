@@ -5,6 +5,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec1.pdf
 uid: d5ea4fd8-e449-621a-84a4-dc6d3277e42e
 ---
 This resource contains lecture notes on a jogging problem.
-

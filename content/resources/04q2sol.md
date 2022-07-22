@@ -7,6 +7,7 @@ file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/e
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 04q2sol.pdf
 uid: e734e879-9ad4-70d0-92cf-905b450e76c9
 ---
 This resource contains solutions to a quiz on logistics and transportation planning methods, including problems: queuing in pairs, Dial-a-Ride, and locating facilities for condo complexes in a small town.
-
