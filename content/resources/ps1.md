@@ -4,6 +4,7 @@ description: 'This resource contains a problem set for logistical and transporta
   planning methods, including problems: two-horse race, cell phones, dogs in the woods,
   and pedestrian crossing.'
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/893e3bedf7842ffa37909450ab930ee4_ps1.pdf
+file_size: 92582
 file_type: application/pdf
 learning_resource_types:
 - Assignments
