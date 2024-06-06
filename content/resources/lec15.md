@@ -4,6 +4,7 @@ description: 'This resource contains lecture slides on generic heuristics for th
   TSP, worst-case performance, probabilistic analysis and asymptotic result for Euclidean
   TSP, Euclidean TSP: tour construction, tour improvement, hybrids, and related references.'
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/6e544151abff66194a6881eb93dcb189_lec15.pdf
+file_size: 92336
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
