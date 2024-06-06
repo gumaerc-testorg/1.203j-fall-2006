@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains solutions to a quiz on logistics and transportation
   planning methods.
 file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/495e64ba64578e5ccf223e3e1bc8e340_00q1sol.pdf
+file_size: 128414
 file_type: application/pdf
 learning_resource_types:
 - Exams
