@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains solutions to a quiz on logistics and transportation
   planning methods, including problems: queuing in pairs, Dial-a-Ride, and locating
   facilities for condo complexes in a small town.'
-file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/e734e8799ad470d092cf905b450e76c9_04q2sol.pdf
+file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/e734e8799ad470d092cf905b450e76c9_04q2sol.pdf
 file_size: 83557
 file_type: application/pdf
 learning_resource_types:

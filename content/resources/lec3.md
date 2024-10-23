@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on functions of random variables,
   CDF, a quantization problem, NYC Marine Transfer Station, and Buffon?s Needle Experiment.
-file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/5fb3828ccf1c35471a4ae82804586d50_lec3.pdf
+file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/5fb3828ccf1c35471a4ae82804586d50_lec3.pdf
 file_size: 217881
 file_type: application/pdf
 learning_resource_types:
