@@ -6,7 +6,7 @@ description: 'This file is a resource which contains information on M/G/1, 2 ser
 
   EMS hypercube, rectangular city example, optimal districting, boundary line comparison,
   and two server loss model: boundary line result.'
-file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a9e0020792674d0dfafcd513b31881f7_lec12.pdf
+file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a9e0020792674d0dfafcd513b31881f7_lec12.pdf
 file_size: 1670547
 file_type: application/pdf
 learning_resource_types:
