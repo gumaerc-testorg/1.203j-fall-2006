@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains solutions to a quiz on logistics and transportation
   planning methods.
-file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/6b75bf47884296e82e1f0bd9dd6e3c0f_03q2sol.pdf
+file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/6b75bf47884296e82e1f0bd9dd6e3c0f_03q2sol.pdf
 file_size: 54660
 file_type: application/pdf
 learning_resource_types:
