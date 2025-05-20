@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains lecture slides on congestion pricing in transportation:
   the fundamental ideas, congestion pricing and queueing theory, numerical examples,
   a real example from LaGuardia Airport, and practical complications.'
-file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/18342098bf20f7b29102666916eba761_lec10.pdf
+file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/18342098bf20f7b29102666916eba761_lec10.pdf
 file_size: 149506
 file_type: application/pdf
 learning_resource_types:

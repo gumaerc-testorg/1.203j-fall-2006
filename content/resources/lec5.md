@@ -5,7 +5,7 @@ description: 'This resource contains lecture slides on topics in queueing system
   balance" equation, M/M/1: observing state transition diagram from two points, priority
   queues, dynamic behavior of queues, applications of queueing theory, and strengths
   and weaknesses of queueing theory.'
-file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a9235f5e4e0aee12a55778e5beaf0ddb_lec5.pdf
+file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/a9235f5e4e0aee12a55778e5beaf0ddb_lec5.pdf
 file_size: 185887
 file_type: application/pdf
 learning_resource_types:
