@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problem set solutions for logistical and transportation
   planning methods.
-file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/f48e7ce03ef9381471aa24c4000d71a7_ps3sol.pdf
+file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/f48e7ce03ef9381471aa24c4000d71a7_ps3sol.pdf
 file_size: 957652
 file_type: application/pdf
 learning_resource_types:
