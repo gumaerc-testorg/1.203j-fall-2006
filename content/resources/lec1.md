@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture notes on a jogging problem.
-file: /courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/d5ea4fd8e449621a84a4dc6d3277e42e_lec1.pdf
+file: /ol-ocw-studio-app/courses/1-203j-logistical-and-transportation-planning-methods-fall-2006/d5ea4fd8e449621a84a4dc6d3277e42e_lec1.pdf
 file_size: 159358
 file_type: application/pdf
 learning_resource_types:
